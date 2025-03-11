@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gym", "Gym\Gym.csproj", "{350FB684-1ECA-4588-9238-54B8726F3BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350FB684-1ECA-4588-9238-54B8726F3BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350FB684-1ECA-4588-9238-54B8726F3BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350FB684-1ECA-4588-9238-54B8726F3BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350FB684-1ECA-4588-9238-54B8726F3BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
